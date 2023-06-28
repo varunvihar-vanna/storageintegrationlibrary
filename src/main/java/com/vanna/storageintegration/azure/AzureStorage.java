@@ -1,4 +1,4 @@
-package io.github.vanna.storageintegration.azure;
+package com.vanna.storageintegration.azure;
 
 
 public interface AzureStorage {

@@ -1,4 +1,4 @@
-package com.vannainfotech.storageintegration;
+package com.vanna.storageintegration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

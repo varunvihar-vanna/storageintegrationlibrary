@@ -1,4 +1,4 @@
-package com.github.vanna.storageintegration.azure;
+package io.github.vanna.storageintegration.azure;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.vannainfotech.storageintegration;
+package com.github.vanna.storageintegration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
